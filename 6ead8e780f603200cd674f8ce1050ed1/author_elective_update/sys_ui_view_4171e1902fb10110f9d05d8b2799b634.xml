@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>testview</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-16 21:17:13</sys_created_on>
+        <sys_id>4171e1902fb10110f9d05d8b2799b634</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestView</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_view_4171e1902fb10110f9d05d8b2799b634</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-16 21:17:13</sys_updated_on>
+        <title>TestView</title>
+        <user/>
+    </sys_ui_view>
+<sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>933bc4d5db0a9fc86578f22ebf9619d8</instance_id>
+        <instance_name>dev59165</instance_name>
+        <name>sys_ui_view_4171e1902fb10110f9d05d8b2799b634</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>testview</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-16 21:17:13</sys_created_on>
+        <sys_id>4171e1902fb10110f9d05d8b2799b634</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestView</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_view_4171e1902fb10110f9d05d8b2799b634</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-16 21:17:13</sys_updated_on>
+        <title>TestView</title>
+        <user/>
+    </sys_ui_view>
+</record_update>]]></payload>
+        <payload_hash>915522468</payload_hash>
+        <record_name>TestView</record_name>
+        <reverted_from/>
+        <source/>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-18 14:51:41</sys_created_on>
+        <sys_id>956c52f42f710110f9d05d8b2799b63c</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17f0d5139c60000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-18 14:51:41</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>556c52f48c71011039cd281a4689193c</update_guid>
+        <update_guid_history>a5c9527466710110c987d10739915b0f:1775721263,0571e190cbb10110778d56bf824b3137:-1123281236</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-18 15:47:44</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>2f2dbdbe04874c288c3cc233156dc024</sys_id>
+        <sys_metadata>4171e1902fb10110f9d05d8b2799b634</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>TestView</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_view_4171e1902fb10110f9d05d8b2799b634</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_4171e1902fb10110f9d05d8b2799b634">956c52f42f710110f9d05d8b2799b63c</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-18 15:47:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
