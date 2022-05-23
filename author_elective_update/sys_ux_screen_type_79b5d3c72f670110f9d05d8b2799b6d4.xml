@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="DELETE">
+        <description/>
+        <name>Test</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 18:38:21</sys_created_on>
+        <sys_id>79b5d3c72f670110f9d05d8b2799b6d4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ux_screen_type_79b5d3c72f670110f9d05d8b2799b6d4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-23 18:38:21</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="DELETE" query="documentkey=79b5d3c72f670110f9d05d8b2799b6d4"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>933bc4d5db0a9fc86578f22ebf9619d8</instance_id>
+        <instance_name>dev59165</instance_name>
+        <name>sys_ux_screen_type_79b5d3c72f670110f9d05d8b2799b6d4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type"><sys_ux_screen_type action="INSERT_OR_UPDATE"><description/><name>Test</name><sys_class_name>sys_ux_screen_type</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-05-23 18:38:21</sys_created_on><sys_id>79b5d3c72f670110f9d05d8b2799b6d4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ux_screen_type_79b5d3c72f670110f9d05d8b2799b6d4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-05-23 18:38:21</sys_updated_on></sys_ux_screen_type><sys_translated_text action="delete_multiple" query="documentkey=79b5d3c72f670110f9d05d8b2799b6d4"/></record_update>]]></payload>
+        <payload_hash>-247247467</payload_hash>
+        <record_name>Test</record_name>
+        <reverted_from/>
+        <source>237dd8212f630110f9d05d8b2799b660</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 18:38:21</sys_created_on>
+        <sys_id>7db5d3c72f670110f9d05d8b2799b6d6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>180f23686270000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-23 18:38:21</sys_updated_on>
+        <type>UX Screen Collection</type>
+        <update_guid>b5b5d3c79f670110eae22a56da5b47d6</update_guid>
+        <update_guid_history>b5b5d3c79f670110eae22a56da5b47d6:-247247467</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-23 18:39:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_screen_type">sys_ux_screen_type</sys_db_object>
+        <sys_id>084aabd5f0974c04998f12791df2a490</sys_id>
+        <sys_metadata>79b5d3c72f670110f9d05d8b2799b6d4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ux_screen_type_79b5d3c72f670110f9d05d8b2799b6d4</sys_update_name>
+        <sys_update_version display_value="sys_ux_screen_type_79b5d3c72f670110f9d05d8b2799b6d4">7db5d3c72f670110f9d05d8b2799b6d6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-23 18:39:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
